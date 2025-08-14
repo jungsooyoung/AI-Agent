@@ -1,0 +1,6 @@
+translate_task:
+  description: 
+    Translate {sentence} from English to Korean without making mistakes.
+  expected_output:
+    A well formatted translation from English to korean
+  agent: translator_agent
